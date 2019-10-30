@@ -39,7 +39,7 @@ You may add your Github link if the following conditions are true:
 
 Example of addition:
 ```
-| Name | [github](https://github.com/billz/raspap-webgui), [website](https://raspap.com) | Description | v2.0-beta |
+[github project](https://github.com/billz/raspap-webgui), [website](https://raspap.com) - Description 
 ```
 
 The link provided should be the link of the github repository, not the demo.
