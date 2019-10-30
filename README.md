@@ -11,11 +11,11 @@ The open source community is doing amazing things with [RaspAP](https://github.c
 ## Projects
 - [Enerserve Smart Pi](https://www.enerserve.eu/en/service/smartpi/manual/networkconfiguration.html) - A smart energy meter based on the Raspberry Pi
 - [FreedomEV](https://github.com/jnuyens/freedomev/) - Unlocking the full potential of Linux on your EV ([RaspAP on a rooted Tesla](https://user-images.githubusercontent.com/3696148/52079372-b6e00400-2595-11e9-84a8-b8758db28acb.jpg))
-- [Security Project – RaspAP (Smart Network Device)](https://www.hackogram.com/?p=172)
+- [Security Project](https://www.hackogram.com/?p=172) - RaspAP-based smart network device
 - [TravelPlex](https://medium.com/@laiello/creating-a-portable-plex-server-travelplex-2fea8c0e5d84) - a portable, offline 1TB Plex shared media server
 
 ## WiFi Access points
-- [WiFi Hotspot for the Garden!](https://flhoest.blogspot.com/2018/07/raspberry-pi-wifi-hotspot-for-garden.html)
+- [WiFi Hotspot for the Garden](https://flhoest.blogspot.com/2018/07/raspberry-pi-wifi-hotspot-for-garden.html)
 
 ## Tutorials
 - [5 minutes pour créer son hotspot Wifi sur Raspberry Pi!](https://bentek.fr/creer-hotspot-wifi-sur-raspberry-pi/)
