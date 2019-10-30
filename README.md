@@ -1,7 +1,7 @@
 ![](https://i.imgur.com/UdgDKPi.png)
 # `$ raspap-awesome` [![Awesome](https://awesome.re/badge.svg)](https://github.com/thibmaek/awesome-raspberry-pi)
 
-This list is a collection projects, tutorials, public access points, GitHub forks and applications either based on or using [RaspAP](https://github.com/billz/raspap-webgui) as a component in one form or another. 
+This list is a collection of projects, tutorials, public access points, GitHub forks and applications either based on or using [RaspAP](https://github.com/billz/raspap-webgui) as a component in one form or another. 
 
 Contributions are *very welcome*. See [Contributing](#contributing). Showcase your resource here!
 
