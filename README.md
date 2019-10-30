@@ -19,6 +19,7 @@ The open source community is doing amazing things with [RaspAP](https://github.c
 
 ## Tutorials
 - [5 minutes pour créer son hotspot Wifi sur Raspberry Pi!](https://bentek.fr/creer-hotspot-wifi-sur-raspberry-pi/)
+- [Adafruit: RaspAP WiFi Configuration Portal](https://blog.adafruit.com/2016/06/24/raspap-wifi-configuration-portal-piday-raspberrypi-raspberry_pi/)
 - [Boitier WIFI VPN](https://lesfrerespoulain.fr/boitier-wifi-vpn/)
 - [Configurer un serveur MQTT avec Raspberry Pi](https://emirchouchane.com/mqtt-raspberry-pi/)
 - [Create a Wi-Fi hotspot in less than 10 minutes](https://howtoraspberrypi.com/create-a-wi-fi-hotspot-in-less-than-10-minutes-with-pi-raspberry/)
