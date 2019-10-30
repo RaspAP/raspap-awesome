@@ -29,6 +29,9 @@ The open source community is doing amazing things with [RaspAP](https://github.c
 - [Raspberry Pi as a Wifi Hotspot](https://raspberry-valley.azurewebsites.net/RaspAP-Wifi-Hotspot/)
 - [Transformez votre Raspberry Pi en point d’accès WiFi avec RaspAP](https://www.geekzone.fr/2018/11/05/transformez-votre-raspberry-pi-en-point-dacces-wifi-avec-raspap/)
 
+## Articles
+- [Raspberry Pi Weekly](https://www.raspberrypi.org/weekly/commander/) - Issue #157 - Commander
+
 ## Other resources
 - [Raspberry Pi Wireless Access Point](https://www.youtube.com/watch?v=RvOyafQeOoY) - YouTube instructional video
 
