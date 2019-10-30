@@ -6,7 +6,7 @@ This list is a collection projects, tutorials, public access points, GitHub fork
 Contributions are *very welcome*. See [Contributing](#contributing). Showcase your resource here!
 
 ## Why this repo?
-The open source community is doing amazing things with [RaspAP](https://github.com/billz/raspap-webgui). Just when we think we've seen it all, something new and unexpected comes along. With the low-cost of the Raspberry Pi and the ease of setup with our famous [Quick Installer](https://github.com/billz/raspap-webgui#quick-installer), RaspAP-powered access points are popping up all over the globe.  Do you run a public access point powered by RaspAP? We'd love to see it! Grab a photo and include it here.
+The open source community is doing amazing things with [RaspAP](https://github.com/billz/raspap-webgui). Just when we think we've seen it all, something new and unexpected comes along. With the low-cost of the Raspberry Pi and the ease of setup with our famous [Quick Installer](https://github.com/billz/raspap-webgui#quick-installer), RaspAP-powered projects are popping up all over the globe.  Do you run a public access point powered by RaspAP? Have an innovative project you've developed with RaspAP? We'd love to see it! 
 
 ## Projects
 - [Enerserve Smart Pi](https://www.enerserve.eu/en/service/smartpi/manual/networkconfiguration.html) - A smart energy meter based on the Raspberry Pi
