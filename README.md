@@ -19,16 +19,16 @@ The open source community is doing amazing things with [RaspAP](https://github.c
 
 ## Tutorials
 - [5 minutes pour créer son hotspot Wifi sur Raspberry Pi!](https://bentek.fr/creer-hotspot-wifi-sur-raspberry-pi/)
-- [Bitblokes: RaspAP – Raspberry Pi als Hotspot / Access Point (WLAN / Wi-Fi)](https://www.bitblokes.de/raspap-raspberry-pi-als-hotspot-access-point-wlan-wi-fi-benutzen/)
 - [Adafruit: RaspAP WiFi Configuration Portal](https://blog.adafruit.com/2016/06/24/raspap-wifi-configuration-portal-piday-raspberrypi-raspberry_pi/)
-- [Boitier WIFI VPN](https://lesfrerespoulain.fr/boitier-wifi-vpn/)
+- [Bitblokes.de: RaspAP – Raspberry Pi als Hotspot / Access Point (WLAN / Wi-Fi)](https://www.bitblokes.de/raspap-raspberry-pi-als-hotspot-access-point-wlan-wi-fi-benutzen/)
+- [Bitreporter.de: Raspberry Pi als WLAN-Hotspot nutzen](https://bitreporter.de/raspberrypi/raspberry-pi-als-wlan-hotspot-nutzen)
 - [Configurer un serveur MQTT avec Raspberry Pi](https://emirchouchane.com/mqtt-raspberry-pi/)
 - [Create a Wi-Fi hotspot in less than 10 minutes](https://howtoraspberrypi.com/create-a-wi-fi-hotspot-in-less-than-10-minutes-with-pi-raspberry/)
-- [Créez votre hotspot Wifi avec un Raspberry Pi de façon express](https://www.framboise314.fr/raspap-creez-votre-hotspot-wifi-avec-un-raspberry-pi-de-facon-express/)
+- [Framboise314: Créez votre hotspot Wifi avec un Raspberry Pi de façon express](https://www.framboise314.fr/raspap-creez-votre-hotspot-wifi-avec-un-raspberry-pi-de-facon-express/)
+- [Geekzone.fr: Transformez votre Raspberry Pi en point d’accès WiFi avec RaspAP](https://www.geekzone.fr/2018/11/05/transformez-votre-raspberry-pi-en-point-dacces-wifi-avec-raspap/)
 - [Instructables: Raspberry Pi As Completely Wireless Router](https://www.instructables.com/id/Raspberry-Pi-As-Completely-Wireless-Router/)
-- [Raspberry Pi als WLAN-Hotspot nutzen](https://bitreporter.de/raspberrypi/raspberry-pi-als-wlan-hotspot-nutzen)
+- [Lesfrerespoulain: Boitier WIFI VPN](https://lesfrerespoulain.fr/boitier-wifi-vpn/)
 - [Raspberry Pi as a Wifi Hotspot](https://raspberry-valley.azurewebsites.net/RaspAP-Wifi-Hotspot/)
-- [Transformez votre Raspberry Pi en point d’accès WiFi avec RaspAP](https://www.geekzone.fr/2018/11/05/transformez-votre-raspberry-pi-en-point-dacces-wifi-avec-raspap/)
 
 ## Articles
 - [Raspberry Pi Weekly](https://www.raspberrypi.org/weekly/commander/) - Issue #157 - Commander
