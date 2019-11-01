@@ -3,14 +3,14 @@
 
 This list is a collection of projects, tutorials, public access points, GitHub forks and applications either based on or using [RaspAP](https://github.com/billz/raspap-webgui) as a component in one form or another. 
 
-Contributions are *very welcome*. See [Contributing](#contributing). Showcase your resource here!
+Contributions are *very welcome*. See [contributing](#contributing). 
 
 ## Why this repo?
-The open source community is doing amazing things with [RaspAP](https://github.com/billz/raspap-webgui). Just when we think we've seen it all, something new and unexpected comes along. With the low cost of the Raspberry Pi and the ease of setup with our famous [Quick Installer](https://github.com/billz/raspap-webgui#quick-installer), RaspAP-powered projects are popping up all over the globe.  Do you run a public or personal access point powered by RaspAP? Have an innovative project you've developed with it? We'd love to see it! 
+The open source community is doing amazing things with [RaspAP](https://github.com/billz/raspap-webgui). Just when we think we've seen it all, something new and unexpected comes along. With the low cost of the Raspberry Pi and the ease of setup with our famous [Quick Installer](https://github.com/billz/raspap-webgui#quick-installer), RaspAP-powered projects are popping up all over the globe.  Do you run a public or personal access point powered by RaspAP? Have an innovative project you've developed with it? Showcase your resource here.
 
 ## Projects
 - [Enerserve Smart Pi](https://www.enerserve.eu/en/service/smartpi/manual/networkconfiguration.html) - A smart energy meter based on the Raspberry Pi
-- [FreedomEV](https://github.com/jnuyens/freedomev/) - Unlocking the full potential of Linux on your EV ( 📸 [RaspAP on a rooted Tesla](https://user-images.githubusercontent.com/3696148/52079372-b6e00400-2595-11e9-84a8-b8758db28acb.jpg))
+- [FreedomEV](https://github.com/jnuyens/freedomev/) - Unlocking the full potential of Linux on your EV ( 📸 [RaspAP on a rooted Tesla](https://user-images.githubusercontent.com/3696148/52079372-b6e00400-2595-11e9-84a8-b8758db28acb.jpg) )
 - [Security Project](https://www.hackogram.com/?p=172) - RaspAP-based smart network device
 - [TravelPlex](https://medium.com/@laiello/creating-a-portable-plex-server-travelplex-2fea8c0e5d84) - a portable, offline 1TB Plex shared media server
 
@@ -42,6 +42,6 @@ Contribution guidelines can be found [here](/CONTRIBUTING.md).
 
 ## License
 
-CC0 - “No Rights Reserved”. 
+CC0 - "No Rights Reserved". 
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
