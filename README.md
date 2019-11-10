@@ -29,6 +29,7 @@ The open source community is doing amazing things with [RaspAP](https://github.c
 - [Instructables: Raspberry Pi As Completely Wireless Router](https://www.instructables.com/id/Raspberry-Pi-As-Completely-Wireless-Router/)
 - [Lesfrerespoulain: Boitier WIFI VPN](https://lesfrerespoulain.fr/boitier-wifi-vpn/)
 - [Raspberry Pi as a Wifi Hotspot](https://raspberry-valley.azurewebsites.net/RaspAP-Wifi-Hotspot/)
+- [Using Sixfab Raspberry Pi Shield/HAT as a Wi-Fi Hotspot](https://sixfab.com/using-sixfab-raspberry-p-shield-hat-as-a-wi-fi-hotspot-access-point/)
 
 ## Articles
 - [Raspberry Pi Weekly](https://www.raspberrypi.org/weekly/commander/) - Issue #157 - Commander
