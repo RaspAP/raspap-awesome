@@ -30,6 +30,7 @@ The open source community is doing amazing things with [RaspAP](https://github.c
 - [Geekzone.fr: Transformez votre Raspberry Pi en point d’accès WiFi avec RaspAP](https://www.geekzone.fr/2018/11/05/transformez-votre-raspberry-pi-en-point-dacces-wifi-avec-raspap/)
 - [Instructables: Raspberry Pi As Completely Wireless Router](https://www.instructables.com/id/Raspberry-Pi-As-Completely-Wireless-Router/)
 - [Lesfrerespoulain: Boitier WIFI VPN](https://lesfrerespoulain.fr/boitier-wifi-vpn/)
+- [Monter sa borne wifi en 5mn avec un raspberry](https://tutox.fr/2019/11/19/monter-sa-borne-wifi-en-5mn-avec-un-raspberry/)
 - [Raspberry Pi as a Wifi Hotspot](https://raspberry-valley.azurewebsites.net/RaspAP-Wifi-Hotspot/)
 - [Using Sixfab Raspberry Pi Shield/HAT as a Wi-Fi Hotspot](https://sixfab.com/using-sixfab-raspberry-p-shield-hat-as-a-wi-fi-hotspot-access-point/)
 
