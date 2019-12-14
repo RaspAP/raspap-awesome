@@ -11,11 +11,11 @@ The open source community is doing amazing things with [RaspAP](https://github.c
 ## Projects
 - [Enerserve Smart Pi](https://www.enerserve.eu/en/service/smartpi/manual/networkconfiguration.html) - A smart energy meter based on the Raspberry Pi
 - [FreedomEV](https://github.com/jnuyens/freedomev/) - Unlocking the full potential of Linux on your EV ( 📸 [RaspAP on a rooted Tesla](https://i.imgur.com/D8XlRkZ.jpg) )
-- [Secure Scuttlebutt Weather Station](https://rickcarlino.com/2019/04/06/a-weather-station-with-raspberry-pi-and-secure-scuttlebutt-html.html) - Replicating, peer-to-peer database of weather log data. RaspAP used to create WiFi LAN and for UDP peer discovery
+- [Secure Scuttlebutt Weather Station](https://rickcarlino.com/2019/04/06/a-weather-station-with-raspberry-pi-and-secure-scuttlebutt-html.html) - Replicating, peer-to-peer database of weather log data
 - [TravelPlex](https://medium.com/@laiello/creating-a-portable-plex-server-travelplex-2fea8c0e5d84) - a portable, offline 1TB Plex shared media server
 
 ## WiFi Access points
-- [Telescope configured with PiZeroW, Rpi_Cam and RaspAP](https://twitter.com/polos5tdi/status/1018954493814296576) – 📸  [Project photo](https://pbs.twimg.com/media/DiQNsPRV4AAPyV3?format=jpg&name=large)
+- [Telescope configured with PiZeroW, Rpi_Cam and RaspAP](https://twitter.com/polos5tdi/status/1018954493814296576) ( 📸  [Project photo](https://pbs.twimg.com/media/DiQNsPRV4AAPyV3?format=jpg&name=large) )
 - [WiFi Hotspot for the Garden](https://flhoest.blogspot.com/2018/07/raspberry-pi-wifi-hotspot-for-garden.html)
 
 ## Tutorials
