@@ -12,6 +12,7 @@ The open source community is doing amazing things with [RaspAP](https://github.c
 - [Create your own portable RFID pentest kit](https://pfery.com/create-your-own-portable-rfid-pentest-kit/) - Based on the Proxmark 3 with RaspAP for remote control over wifi
 - [Enerserve Smart Pi](https://www.enerserve.eu/en/service/smartpi/manual/networkconfiguration.html) - A smart energy meter based on the Raspberry Pi
 - [FreedomEV](https://github.com/jnuyens/freedomev/) - Unlocking the full potential of Linux on your EV ( 📸 [RaspAP on a rooted Tesla](https://i.imgur.com/D8XlRkZ.jpg) )
+- [Pool pH Level and Temperature Wifi Monitor](https://deanfourie.me/pool-monitor/3/) ( 📸 [Project photo](https://imgur.com/a/eGVyTUf) )
 - [Secure Scuttlebutt Weather Station](https://rickcarlino.com/2019/04/06/a-weather-station-with-raspberry-pi-and-secure-scuttlebutt-html.html) - Replicating, peer-to-peer database of weather log data
 - [TravelPlex](https://medium.com/@laiello/creating-a-portable-plex-server-travelplex-2fea8c0e5d84) - a portable, offline 1TB Plex shared media server
 - [V1 Engineering](https://www.v1engineering.com/dip-a-toe-in-the-pool-v1pi/) - RPi-powered OctoPrint, CNC.js, CNC control from your phone
@@ -21,7 +22,7 @@ The open source community is doing amazing things with [RaspAP](https://github.c
 - [WiFi Hotspot for the Garden](https://flhoest.blogspot.com/2018/07/raspberry-pi-wifi-hotspot-for-garden.html)
 
 ## Tutorials
-- [5 minutes pour créer son hotspot Wifi sur Raspberry Pi!](https://bentek.fr/creer-hotspot-wifi-sur-raspberry-pi/)
+- [5 minutes pour créer son hotspot Wifi sur Raspberry Pi](https://bentek.fr/creer-hotspot-wifi-sur-raspberry-pi/)
 - [Adafruit: RaspAP WiFi Configuration Portal](https://blog.adafruit.com/2016/06/24/raspap-wifi-configuration-portal-piday-raspberrypi-raspberry_pi/)
 - [Cartographie faible coût et partagée à base de raspberry Pi et Opencpn](https://rm-asso.org/cartographie-faible-cout-et-partagee-a-base-de-raspberry-pi-et-opencpn/) 
 - [Bitblokes.de: RaspAP – Raspberry Pi als Hotspot / Access Point (WLAN / Wi-Fi)](https://www.bitblokes.de/raspap-raspberry-pi-als-hotspot-access-point-wlan-wi-fi-benutzen/) 
