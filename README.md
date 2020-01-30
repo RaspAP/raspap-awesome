@@ -9,6 +9,7 @@ Contributions are *very welcome*. See [contributing](#contributing).
 The open source community is doing amazing things with [RaspAP](https://github.com/billz/raspap-webgui). Just when we think we've seen it all, something new and unexpected comes along. With the low cost of the Raspberry Pi and the ease of setup with our famous [Quick Installer](https://github.com/billz/raspap-webgui#quick-installer), RaspAP-powered projects are popping up all over the globe.  Do you run a public or personal access point powered by RaspAP? Have an innovative project you've developed with it? Showcase your resource here.
 
 ## Projects
+- [Connecting a Raspberry Pi, iPad, HoloLens, and Magic Leap ML1](https://mikebuss.com/2020/01/27/ipad-hololens-rpi-part-1/) - via [@mikebuss](https://twitter.com/michaeltbuss) 🏆
 - [Create your own portable RFID pentest kit](https://pfery.com/create-your-own-portable-rfid-pentest-kit/) - Based on the Proxmark 3 with RaspAP for remote control over wifi
 - [Enerserve Smart Pi](https://www.enerserve.eu/en/service/smartpi/manual/networkconfiguration.html) - A smart energy meter based on the Raspberry Pi
 - [FreedomEV](https://github.com/jnuyens/freedomev/) - Unlocking the full potential of Linux on your EV ( 📸 [RaspAP on a rooted Tesla](https://i.imgur.com/D8XlRkZ.jpg) )
