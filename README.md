@@ -21,6 +21,7 @@ The open source community is doing amazing things with [RaspAP](https://github.c
 - [V1 Engineering](https://www.v1engineering.com/dip-a-toe-in-the-pool-v1pi/) - RPi-powered OctoPrint, CNC.js, CNC control from your phone
 
 ## WiFi Access points
+- [Staying connected in Italy during coronavirus lockdown](https://twitter.com/lewixlabs/status/1238086742286180352) - tweet via [@lewixlabs](https://twitter.com/lewixlabs)
 - [Telescope configured with PiZeroW, Rpi_Cam and RaspAP](https://twitter.com/polos5tdi/status/1018954493814296576) ( 📸  [Project photo](https://pbs.twimg.com/media/DiQNsPRV4AAPyV3?format=jpg&name=large) )
 - [WiFi Hotspot for the Garden](https://flhoest.blogspot.com/2018/07/raspberry-pi-wifi-hotspot-for-garden.html)
 
