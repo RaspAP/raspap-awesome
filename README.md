@@ -12,6 +12,7 @@ The open source community is doing amazing things with [RaspAP](https://github.c
 - [Carry your Mobile Kubernetes](https://blog.kube-mesh.io/carry-your-mobile-kubernetes/) - Kubernetes Cluster using RaspAP in wifi client AP mode with an iPad Pro
 - [Connecting a Raspberry Pi, iPad, HoloLens, and Magic Leap ML1](https://mikebuss.com/2020/01/27/ipad-hololens-rpi-part-1/) - via [@mikebuss](https://twitter.com/michaeltbuss) 🏆
 - [Create your own portable RFID pentest kit](https://pfery.com/create-your-own-portable-rfid-pentest-kit/) - Based on the Proxmark 3 with RaspAP for remote control over wifi
+- [Drumming robot](https://hackaday.io/project/171607-drumming-robot) - MIDI drum machine to complement live electronic music
 - [Enerserve Smart Pi](https://www.enerserve.eu/en/service/smartpi/manual/networkconfiguration.html) - A smart energy meter based on the Raspberry Pi
 - [FreedomEV](https://github.com/jnuyens/freedomev/) - Unlocking the full potential of Linux on your EV ( 📸 [RaspAP on a rooted Tesla](https://i.imgur.com/D8XlRkZ.jpg) )
 - [Ham Radio Winter Tent Camping | Winter Field Day](https://youtu.be/jCfdIonDL8I?t=534) - Preparedness & off-grid communications 📽
