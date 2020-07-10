@@ -51,6 +51,7 @@ The open source community is doing amazing things with [RaspAP](https://github.c
 
 ## Other resources
 - [Raspberry Pi Wireless Access Point](https://www.youtube.com/watch?v=RvOyafQeOoY) - YouTube instructional video
+- [Top 16 useful tools for Raspberry Pi lovers](https://www.techiebouncer.com/2020/06/top-16-useful-tools-for-raspberry-pi.html)
 
 ## Contributing
 
