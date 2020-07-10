@@ -43,6 +43,7 @@ The open source community is doing amazing things with [RaspAP](https://github.c
 - [Raspberry Pi as a Wifi Hotspot](https://raspberry-valley.azurewebsites.net/RaspAP-Wifi-Hotspot/)
 - [Réaliser un routeur WiFi/4G sois-même](https://eco-sensors.ch/router-wifi-4g-hotspot/)
 - [Turn Your Raspberry Pi into a Captive Portal Wi‐Fi Access Point](https://www.maketecheasier.com/turn-raspberry-pi-captive-portal-wi%E2%80%90fi-access-point/)
+- [Turn your Raspberry Pi into a VPN with Tor as Access Point](https://medium.com/@mshlab/raspberrypi-vpn-with-tor-as-access-point-c03f5ef19ccd)
 - [Using Sixfab Raspberry Pi Shield/HAT as a Wi-Fi Hotspot](https://sixfab.com/using-sixfab-raspberry-p-shield-hat-as-a-wi-fi-hotspot-access-point/)
 
 ## Articles
