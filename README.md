@@ -20,6 +20,8 @@ The open source community is doing amazing things with [RaspAP](https://github.c
 - [Secure Scuttlebutt Weather Station](https://rickcarlino.com/2019/04/06/a-weather-station-with-raspberry-pi-and-secure-scuttlebutt-html.html) - Replicating, peer-to-peer database of weather log data
 - [TravelPlex](https://medium.com/@laiello/creating-a-portable-plex-server-travelplex-2fea8c0e5d84) - a portable, offline 1TB Plex shared media server
 - [V1 Engineering](https://www.v1engineering.com/dip-a-toe-in-the-pool-v1pi/) - RPi-powered OctoPrint, CNC.js, CNC control from your phone
+- [WiPi – A RaspberryPi Hotspot To Go](https://lucasjhall.com/2020/08/08/wipi-a-raspberrypi-hotspot-to-go/) - AP & portable local network with a 
+Sixfab cellular HAT, built for travel
 
 ## WiFi Access points
 - [Staying connected in Italy during coronavirus lockdown](https://twitter.com/lewixlabs/status/1238086742286180352) - tweet via [@lewixlabs](https://twitter.com/lewixlabs)
