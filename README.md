@@ -42,6 +42,7 @@ Sixfab cellular HAT, built for travel
 - [Instructables: Raspberry Pi As Completely Wireless Router](https://www.instructables.com/id/Raspberry-Pi-As-Completely-Wireless-Router/)
 - [Lesfrerespoulain: Boitier WIFI VPN](https://lesfrerespoulain.fr/boitier-wifi-vpn/) 
 - [Monter sa borne wifi en 5mn avec un raspberry](https://tutox.fr/2019/11/19/monter-sa-borne-wifi-en-5mn-avec-un-raspberry/) 
+- [Raspberry Pi as 4G LTE Router](https://newjerseystyle.github.io/en/2020/Raspberry-Pi-as-4G-LTE-Router/)
 - [Raspberry Pi as a Wifi Hotspot](https://raspberry-valley.azurewebsites.net/RaspAP-Wifi-Hotspot/)
 - [Réaliser un routeur WiFi/4G sois-même](https://eco-sensors.ch/router-wifi-4g-hotspot/)
 - [Rock Pi S WiFi Access Point with Armbian](https://www.alexgoldcheidt.com/other-devices-rock-pi-s-wifi-access-point/)
