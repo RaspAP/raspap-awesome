@@ -52,7 +52,9 @@ Sixfab cellular HAT, built for travel
 - [Using Sixfab Raspberry Pi Shield/HAT as a Wi-Fi Hotspot](https://sixfab.com/using-sixfab-raspberry-p-shield-hat-as-a-wi-fi-hotspot-access-point/)
 
 ## Articles
+- [Low-cost Raspberry Pi Zero endoscope camera](https://www.raspberrypi.org/blog/low-cost-raspberry-pi-zero-endoscope-camera/)
 - [Raspberry Pi Weekly](https://www.raspberrypi.org/weekly/commander/) - Issue #157 - Commander
+- [Raspberry Pi Weekly](https://www.raspberrypi.org/weekly/were-on-the-home-stretch/) - Issue #351 - We’re on the home stretch!
 
 ## Other resources
 - [Raspberry Pi Wireless Access Point](https://www.youtube.com/watch?v=RvOyafQeOoY) - YouTube instructional video
