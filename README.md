@@ -36,6 +36,7 @@ Sixfab cellular HAT, built for travel
 - [Bitblokes.de: RaspAP – Raspberry Pi als Hotspot / Access Point (WLAN / Wi-Fi)](https://www.bitblokes.de/raspap-raspberry-pi-als-hotspot-access-point-wlan-wi-fi-benutzen/) 
 - [Bitblokes.de: VPN router with Raspberry Pi, RaspAP and NordVPN / OpenVPN (simple)](https://www.bitblokes.de/vpn-router-mit-raspberry-pi-raspap-und-nordvpn-openvpn-einfach/) 
 - [Bitreporter.de: Raspberry Pi als WLAN-Hotspot nutzen](https://bitreporter.de/raspberrypi/raspberry-pi-als-wlan-hotspot-nutzen) 
+- [Building private WiFi hotspot with RaspberryPi, RaspAP, and VPN](https://ondrejsevcik.com/blog/private-wifi-with-raspberry-pi/)
 - [Configurer un serveur MQTT avec Raspberry Pi](https://emirchouchane.com/mqtt-raspberry-pi/) 
 - [Create a Wi-Fi hotspot in less than 10 minutes](https://howtoraspberrypi.com/create-a-wi-fi-hotspot-in-less-than-10-minutes-with-pi-raspberry/)
 - [Framboise314: Créez votre hotspot Wifi avec un Raspberry Pi de façon express](https://www.framboise314.fr/raspap-creez-votre-hotspot-wifi-avec-un-raspberry-pi-de-facon-express/) 
