@@ -39,6 +39,7 @@ Sixfab cellular HAT, built for travel
 - [Building private WiFi hotspot with RaspberryPi, RaspAP, and VPN](https://ondrejsevcik.com/blog/private-wifi-with-raspberry-pi/)
 - [Configurer un serveur MQTT avec Raspberry Pi](https://emirchouchane.com/mqtt-raspberry-pi/) 
 - [Create a Wi-Fi hotspot in less than 10 minutes](https://howtoraspberrypi.com/create-a-wi-fi-hotspot-in-less-than-10-minutes-with-pi-raspberry/)
+- [Create an AP to gain remote control of the Raspberry](https://michaelmuenzer.medium.com/create-an-ap-to-gain-remote-control-of-the-raspberry-7ff7a81ebbe0) - Realtek chipset wifi dongle with a RPi Zero W
 - [Framboise314: Créez votre hotspot Wifi avec un Raspberry Pi de façon express](https://www.framboise314.fr/raspap-creez-votre-hotspot-wifi-avec-un-raspberry-pi-de-facon-express/) 
 - [Geekzone.fr: Transformez votre Raspberry Pi en point d’accès WiFi avec RaspAP](https://www.geekzone.fr/2018/11/05/transformez-votre-raspberry-pi-en-point-dacces-wifi-avec-raspap/) 
 - [Instructables: Raspberry Pi As Completely Wireless Router](https://www.instructables.com/id/Raspberry-Pi-As-Completely-Wireless-Router/)
