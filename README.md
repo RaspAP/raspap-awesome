@@ -16,6 +16,7 @@ The open source community is doing amazing things with [RaspAP](https://github.c
 - [Enerserve Smart Pi](https://www.enerserve.eu/en/service/smartpi/manual/networkconfiguration.html) - A smart energy meter based on the Raspberry Pi
 - [FreedomEV](https://github.com/jnuyens/freedomev/) - Unlocking the full potential of Linux on your EV ( 📸 [RaspAP on a rooted Tesla](https://i.imgur.com/D8XlRkZ.jpg) )
 - [Ham Radio Winter Tent Camping | Winter Field Day](https://youtu.be/jCfdIonDL8I?t=534) - Preparedness & off-grid communications 📽
+- [Interactive media installation at the Helinä Rautavaara Museum, Finland](https://portfolio.siloen.dk/hh-video-installation)
 - [Low-cost wireless endoscope camera: a preliminary report](https://afju.springeropen.com/articles/10.1186/s12301-021-00127-z)
 - [Pool pH Level and Temperature Wifi Monitor](https://deanfourie.me/pool-monitor/3/) ( 📸 [Project photo](https://imgur.com/a/eGVyTUf) )
 - [Secure Scuttlebutt Weather Station](https://rickcarlino.com/2019/04/06/a-weather-station-with-raspberry-pi-and-secure-scuttlebutt-html.html) - Replicating, peer-to-peer database of weather log data
