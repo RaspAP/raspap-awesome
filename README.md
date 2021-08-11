@@ -1,12 +1,12 @@
 ![](https://i.imgur.com/UdgDKPi.png)
 # `$ raspap-awesome` [![Awesome](https://awesome.re/badge.svg)](https://github.com/thibmaek/awesome-raspberry-pi)
 
-This list is a collection of projects, tutorials, public access points, GitHub forks and applications either based on or using [RaspAP](https://github.com/billz/raspap-webgui) as a component in one form or another. 
+This list is a collection of projects, tutorials, public access points, GitHub forks and applications either based on or using [RaspAP](https://github.com/RaspAP/raspap-webgui) as a component in one form or another. 
 
 Contributions are *very welcome*. See [contributing](#contributing). 
 
 ## Why this repo?
-The open source community is doing amazing things with [RaspAP](https://github.com/billz/raspap-webgui). Just when we think we've seen it all, something new and unexpected comes along. With the low cost of the Raspberry Pi and the ease of setup with our famous [Quick Installer](https://github.com/billz/raspap-webgui#quick-installer), RaspAP-powered projects are popping up all over the globe.  Do you run a public or personal access point powered by RaspAP? Have an innovative project you've developed with it? Showcase your resource here.
+The open source community is doing amazing things with [RaspAP](https://github.com/RaspAP/raspap-webgui). Just when we think we've seen it all, something new and unexpected comes along. With the low cost of the Raspberry Pi and the ease of setup with our famous [Quick Installer](https://docs.raspap.com/quick/), RaspAP-powered projects are popping up all over the globe.  Do you run a public or personal access point powered by RaspAP? Have an innovative project you've developed with it? Showcase your resource here!
 
 ## Projects
 - [Carry your Mobile Kubernetes](https://blog.kube-mesh.io/carry-your-mobile-kubernetes/) - Kubernetes Cluster using RaspAP in wifi client AP mode with an iPad Pro
