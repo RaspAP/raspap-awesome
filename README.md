@@ -52,7 +52,6 @@ Sixfab cellular HAT, built for travel
 - [Rock Pi S WiFi Access Point with Armbian](https://www.alexgoldcheidt.com/other-devices-rock-pi-s-wifi-access-point/)
 - [Turn Your Raspberry Pi into a Captive Portal Wi‐Fi Access Point](https://www.maketecheasier.com/turn-raspberry-pi-captive-portal-wi%E2%80%90fi-access-point/)
 - [Turn your Raspberry Pi into a VPN with Tor as Access Point](https://medium.com/@mshlab/raspberrypi-vpn-with-tor-as-access-point-c03f5ef19ccd)
-- [Using Sixfab Raspberry Pi Shield/HAT as a Wi-Fi Hotspot](https://sixfab.com/using-sixfab-raspberry-p-shield-hat-as-a-wi-fi-hotspot-access-point/)
 
 ## Articles
 - [Low-cost Raspberry Pi Zero endoscope camera](https://www.raspberrypi.org/blog/low-cost-raspberry-pi-zero-endoscope-camera/)
