@@ -45,10 +45,12 @@ Sixfab cellular HAT, built for travel
 - [Instructables: Raspberry Pi As Completely Wireless Router](https://www.instructables.com/id/Raspberry-Pi-As-Completely-Wireless-Router/)
 - [Lesfrerespoulain: Boitier WIFI VPN](https://lesfrerespoulain.fr/boitier-wifi-vpn/) 
 - [Monter sa borne wifi en 5mn avec un raspberry](https://tutox.fr/2019/11/19/monter-sa-borne-wifi-en-5mn-avec-un-raspberry/) 
+- [RaspAP on Orange Pi PC + Armbian](https://ficus.myvnc.com/en/Blog/RaspAP-on-Orange-Pi-PCArmbian-Debian-Buster~b1197)
 - [Raspberry Pi as 4G LTE Router](https://newjerseystyle.github.io/en/2020/Raspberry-Pi-as-4G-LTE-Router/)
 - [Raspberry Pi as a Wifi Hotspot](https://raspberry-valley.azurewebsites.net/RaspAP-Wifi-Hotspot/)
 - [Réaliser un routeur WiFi/4G sois-même](https://eco-sensors.ch/router-wifi-4g-hotspot/)
 - [Rock Pi S WiFi Access Point with Armbian](https://www.alexgoldcheidt.com/other-devices-rock-pi-s-wifi-access-point/)
+- [Tea and Tech Time: Raspberry Pi WiFi Router](https://teaandtechtime.com/raspberry-pi-wifi-router/)
 - [Turn Your Raspberry Pi into a Captive Portal Wi‐Fi Access Point](https://www.maketecheasier.com/turn-raspberry-pi-captive-portal-wi%E2%80%90fi-access-point/)
 - [Turn your Raspberry Pi into a VPN with Tor as Access Point](https://medium.com/@mshlab/raspberrypi-vpn-with-tor-as-access-point-c03f5ef19ccd)
 - [Using Sixfab Raspberry Pi Shield/HAT as a Wi-Fi Hotspot
