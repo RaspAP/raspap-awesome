@@ -12,7 +12,6 @@ The open source community is doing amazing things with [RaspAP](https://github.c
 - [Connecting a Raspberry Pi, iPad, HoloLens, and Magic Leap ML1](https://mikebuss.com/2020/01/27/ipad-hololens-rpi-part-1/) - via [@mikebuss](https://twitter.com/michaeltbuss) 🏆
 - [Create your own portable RFID pentest kit](https://pfery.com/create-your-own-portable-rfid-pentest-kit/) - Based on the Proxmark 3 with RaspAP for remote control over wifi
 - [Drumming robot](https://hackaday.io/project/171607-drumming-robot) - MIDI drum machine to complement live electronic music
-- [Enerserve Smart Pi](https://www.enerserve.eu/en/service/smartpi/manual/networkconfiguration.html) - A smart energy meter based on the Raspberry Pi
 - [FreedomEV](https://github.com/jnuyens/freedomev/) - Unlocking the full potential of Linux on your EV ( 📸 [RaspAP on a rooted Tesla](https://i.imgur.com/D8XlRkZ.jpg) )
 - [Ham Radio Winter Tent Camping | Winter Field Day](https://youtu.be/jCfdIonDL8I?t=534) - Preparedness & off-grid communications 📽
 - [Interactive media installation at the Helinä Rautavaara Museum, Finland](https://portfolio.siloen.dk/hh-video-installation)
@@ -32,6 +31,7 @@ Sixfab cellular HAT, built for travel
 ## Tutorials
 - [5 minutes pour créer son hotspot Wifi sur Raspberry Pi](https://bentek.fr/creer-hotspot-wifi-sur-raspberry-pi/)
 - [Adafruit: RaspAP WiFi Configuration Portal](https://blog.adafruit.com/2016/06/24/raspap-wifi-configuration-portal-piday-raspberrypi-raspberry_pi/)
+- [Build a Raspberry Pi dual-WiFi VPN router with WireGuard to use with Apple TV](https://www.christopherlouvet.com/posts/raspberry-pi-dual-wifi-wireguard-vpn-apple-tv/)
 - [Cartographie faible coût et partagée à base de raspberry Pi et Opencpn](https://rm-asso.org/cartographie-faible-cout-et-partagee-a-base-de-raspberry-pi-et-opencpn/) 
 - [Bitblokes.de: RaspAP – Raspberry Pi als Hotspot / Access Point (WLAN / Wi-Fi)](https://www.bitblokes.de/raspap-raspberry-pi-als-hotspot-access-point-wlan-wi-fi-benutzen/) 
 - [Bitblokes.de: VPN router with Raspberry Pi, RaspAP and NordVPN / OpenVPN (simple)](https://www.bitblokes.de/vpn-router-mit-raspberry-pi-raspap-und-nordvpn-openvpn-einfach/) 
