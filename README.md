@@ -43,6 +43,7 @@ Sixfab cellular HAT, built for travel
 - [Create an AP to gain remote control of the Raspberry](https://michaelmuenzer.medium.com/create-an-ap-to-gain-remote-control-of-the-raspberry-7ff7a81ebbe0) - Realtek chipset wifi dongle with a RPi Zero W
 - [Framboise314: Créez votre hotspot Wifi avec un Raspberry Pi de façon express](https://www.framboise314.fr/raspap-creez-votre-hotspot-wifi-avec-un-raspberry-pi-de-facon-express/) 
 - [Geekzone.fr: Transformez votre Raspberry Pi en point d’accès WiFi avec RaspAP](https://www.geekzone.fr/2018/11/05/transformez-votre-raspberry-pi-en-point-dacces-wifi-avec-raspap/) 
+- [How to build a Raspberry Pi APRS Tracker using Direwolf + RaspAP](https://brandonb.ca/raspberry-pi-aprs-tracker)
 - [Instructables: Raspberry Pi As Completely Wireless Router](https://www.instructables.com/id/Raspberry-Pi-As-Completely-Wireless-Router/)
 - [Lesfrerespoulain: Boitier WIFI VPN](https://lesfrerespoulain.fr/boitier-wifi-vpn/) 
 - [Monter sa borne wifi en 5mn avec un raspberry](https://tutox.fr/2019/11/19/monter-sa-borne-wifi-en-5mn-avec-un-raspberry/) 
