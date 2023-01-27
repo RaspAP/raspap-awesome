@@ -11,6 +11,7 @@ The open source community is doing amazing things with [RaspAP](https://github.c
 ## Projects
 - [Connecting a Raspberry Pi, iPad, HoloLens, and Magic Leap ML1](https://mikebuss.com/2020/01/27/ipad-hololens-rpi-part-1/) - via [@mikebuss](https://twitter.com/michaeltbuss) 🏆
 - [Create your own portable RFID pentest kit](https://pfery.com/create-your-own-portable-rfid-pentest-kit/) - Based on the Proxmark 3 with RaspAP for remote control over wifi
+- [Et si on Utilisait Minecraft au Collège ?](https://mathix.org/linux/archives/17928) - Using Minecraft + RaspAP in education
 - [FreedomEV](https://github.com/jnuyens/freedomev/) - Unlocking the full potential of Linux on your EV ( 📸 [RaspAP on a rooted Tesla](https://i.imgur.com/D8XlRkZ.jpg) )
 - [Hacking my Air Purifier 🌪️](https://joshspicer.com/hack-air-purifier) - Monitoring network traffic using RaspAP with a "smart" air purifier
 - [Ham Radio Winter Tent Camping | Winter Field Day](https://youtu.be/jCfdIonDL8I?t=534) - Preparedness & off-grid communications 📽
