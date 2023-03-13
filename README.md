@@ -17,6 +17,7 @@ The open source community is doing amazing things with [RaspAP](https://github.c
 - [Hacking my Air Purifier](https://joshspicer.com/hack-air-purifier) - Monitoring network traffic using RaspAP with a "smart" air purifier
 - [Ham Radio Winter Tent Camping | Winter Field Day](https://youtu.be/jCfdIonDL8I?t=534) - Preparedness & off-grid communications 📽
 - [Interactive media installation at the Helinä Rautavaara Museum, Finland](https://portfolio.siloen.dk/hh-video-installation)
+- [iTex Gloves: Design and In-Home Evaluation of an E-Textile Glove System for Tele-Assessment of Parkinson’s Disease](https://www.mdpi.com/1424-8220/23/6/2877/htm)
 - [Low-cost wireless endoscope camera: a preliminary report](https://afju.springeropen.com/articles/10.1186/s12301-021-00127-z)
 - [Pool pH Level and Temperature Wifi Monitor](https://deanfourie.me/pool-monitor/3/) ( 📸 [Project photo](https://imgur.com/a/eGVyTUf) )
 - [Raspberry Pi Construction Cam](https://darkspirit510.de/2021/10/raspberry-pi-construction-cam/)
