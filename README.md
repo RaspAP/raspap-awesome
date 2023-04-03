@@ -1,7 +1,7 @@
 ![](https://i.imgur.com/UdgDKPi.png)
 # `$ raspap-awesome` [![Awesome](https://awesome.re/badge.svg)](https://github.com/thibmaek/awesome-raspberry-pi)
 
-This list is a collection of projects, tutorials, public access points, GitHub forks and applications either based on or using [RaspAP](https://github.com/RaspAP/raspap-webgui) as a component in one form or another. 
+This list is a collection of projects, tutorials, public access points, GitHub forks and applications either based on or using [RaspAP](https://github.com/RaspAP/raspap-webgui) as a component in one form or another. Items in each list are ordered alphabetically by title.
 
 Contributions are *very welcome*. See [contributing](#contributing). 
 
@@ -9,6 +9,9 @@ Contributions are *very welcome*. See [contributing](#contributing).
 The open source community is doing amazing things with [RaspAP](https://github.com/RaspAP/raspap-webgui). Just when we think we've seen it all, something new and unexpected comes along. With the low cost of the Raspberry Pi and the ease of setup with our famous [Quick Installer](https://docs.raspap.com/quick/), RaspAP-powered projects are popping up all over the globe.  Do you run a public or personal access point powered by RaspAP? Have an innovative project you've developed with it? Showcase your resource here!
 
 ## Projects
+- [Arduino mobile development with Blynk](https://techexplorations.com/so/mobile-development-with-blynk/) - course using Blynk platform for building projects with Arduino Nano 33 IoT and ESP32
+- [Build a Raspberry Pi APRS Tracker using Direwolf](https://brandonb.ca/raspberry-pi-aprs-tracker) - an amateur radio-based system for real time digital communications with RaspAP
+- [Build a Raspberry Pi dual-WiFi VPN router with WireGuard](https://www.christopherlouvet.com/posts/raspberry-pi-dual-wifi-wireguard-vpn-apple-tv/) - for use with Apple TV
 - [Butter Box](https://likebutter.app/box/) - an app store, encrypted chat & more, available over WiFi from an off-grid Raspberry Pi 
 - [Create your own portable RFID pentest kit](https://pfery.com/create-your-own-portable-rfid-pentest-kit/) - Based on the Proxmark 3 with RaspAP for remote control over wifi
 - [Et si on Utilisait Minecraft au Collège ?](https://mathix.org/linux/archives/17928) - Using Minecraft + RaspAP in education
@@ -16,7 +19,7 @@ The open source community is doing amazing things with [RaspAP](https://github.c
 - [Hacking my Air Purifier](https://joshspicer.com/hack-air-purifier) - Monitoring network traffic using RaspAP with a "smart" air purifier
 - [Ham Radio Winter Tent Camping | Winter Field Day](https://youtu.be/jCfdIonDL8I?t=534) - Preparedness & off-grid communications 📽
 - [Interactive media installation at the Helinä Rautavaara Museum, Finland](https://portfolio.siloen.dk/hh-video-installation)
-- [iTex Gloves](https://www.mdpi.com/1424-8220/23/6/2877/htm) - an in-home evaluation of an e-textile glove system for tele-assessment of Parkinson’s Disease]
+- [iTex Gloves](https://www.mdpi.com/1424-8220/23/6/2877/htm) - an in-home evaluation of an e-textile glove system for tele-assessment of Parkinson’s Disease
 - [Low-cost wireless endoscope camera](https://afju.springeropen.com/articles/10.1186/s12301-021-00127-z) - a preliminary report
 - [Pool pH Level and Temperature Wifi Monitor](https://deanfourie.me/pool-monitor/3/) ( 📸 [Project photo](https://imgur.com/a/eGVyTUf) )
 - [Raspberry Pi Construction Cam](https://darkspirit510.de/2021/10/raspberry-pi-construction-cam/)
