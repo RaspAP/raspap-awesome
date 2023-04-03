@@ -10,15 +10,14 @@ The open source community is doing amazing things with [RaspAP](https://github.c
 
 ## Projects
 - [Butter Box](https://likebutter.app/box/) - an app store, encrypted chat & more, available over WiFi from an off-grid Raspberry Pi 
-- [Connecting a Raspberry Pi, iPad, HoloLens, and Magic Leap ML1](https://mikebuss.com/2020/01/27/ipad-hololens-rpi-part-1/) - via [@mikebuss](https://twitter.com/michaeltbuss) 🏆
 - [Create your own portable RFID pentest kit](https://pfery.com/create-your-own-portable-rfid-pentest-kit/) - Based on the Proxmark 3 with RaspAP for remote control over wifi
 - [Et si on Utilisait Minecraft au Collège ?](https://mathix.org/linux/archives/17928) - Using Minecraft + RaspAP in education
 - [FreedomEV](https://github.com/jnuyens/freedomev/) - Unlocking the full potential of Linux on your EV ( 📸 [RaspAP on a rooted Tesla](https://i.imgur.com/D8XlRkZ.jpg) )
 - [Hacking my Air Purifier](https://joshspicer.com/hack-air-purifier) - Monitoring network traffic using RaspAP with a "smart" air purifier
 - [Ham Radio Winter Tent Camping | Winter Field Day](https://youtu.be/jCfdIonDL8I?t=534) - Preparedness & off-grid communications 📽
 - [Interactive media installation at the Helinä Rautavaara Museum, Finland](https://portfolio.siloen.dk/hh-video-installation)
-- [iTex Gloves: Design and In-Home Evaluation of an E-Textile Glove System for Tele-Assessment of Parkinson’s Disease](https://www.mdpi.com/1424-8220/23/6/2877/htm)
-- [Low-cost wireless endoscope camera: a preliminary report](https://afju.springeropen.com/articles/10.1186/s12301-021-00127-z)
+- [iTex Gloves](https://www.mdpi.com/1424-8220/23/6/2877/htm) - an in-home evaluation of an e-textile glove system for tele-assessment of Parkinson’s Disease]
+- [Low-cost wireless endoscope camera](https://afju.springeropen.com/articles/10.1186/s12301-021-00127-z) - a preliminary report
 - [Pool pH Level and Temperature Wifi Monitor](https://deanfourie.me/pool-monitor/3/) ( 📸 [Project photo](https://imgur.com/a/eGVyTUf) )
 - [Raspberry Pi Construction Cam](https://darkspirit510.de/2021/10/raspberry-pi-construction-cam/)
 - [Secure Scuttlebutt Weather Station](https://rickcarlino.com/2019/04/06/a-weather-station-with-raspberry-pi-and-secure-scuttlebutt-html.html) - Replicating, peer-to-peer database of weather log data
