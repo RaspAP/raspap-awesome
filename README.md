@@ -24,6 +24,7 @@ The open source community is doing amazing things with [RaspAP](https://github.c
 - [Pool pH Level and Temperature Wifi Monitor](https://deanfourie.me/pool-monitor/3/) ( 📸 [Project photo](https://imgur.com/a/eGVyTUf) )
 - [Raspberry Pi Construction Cam](https://darkspirit510.de/2021/10/raspberry-pi-construction-cam/)
 - [Secure Scuttlebutt Weather Station](https://rickcarlino.com/2019/04/06/a-weather-station-with-raspberry-pi-and-secure-scuttlebutt-html.html) - Replicating, peer-to-peer database of weather log data
+- [Smart Window Opener](https://www.hackster.io/Infineon_Team/smart-window-opener-dd5fba) - Upgrade your window from a lame one to an awesome smart one
 - [Subsea resident autonomous underwater vehicle (AUV)](https://discuss.bluerobotics.com/t/subsea-resident-auv/9771) - RaspAP used for wireless communication with the AUV's dock
 - [TravelPlex](https://medium.com/@laiello/creating-a-portable-plex-server-travelplex-2fea8c0e5d84) - a portable, offline 1TB Plex shared media server
 - [V1 Engineering](https://www.v1engineering.com/dip-a-toe-in-the-pool-v1pi/) - RPi-powered OctoPrint, CNC.js, CNC control from your phone
