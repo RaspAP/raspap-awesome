@@ -13,6 +13,7 @@ The open source community is doing amazing things with [RaspAP](https://github.c
 - [Build a Raspberry Pi APRS Tracker using Direwolf](https://brandonb.ca/raspberry-pi-aprs-tracker) - an amateur radio-based system for real time digital communications with RaspAP
 - [Build a Raspberry Pi dual-WiFi VPN router with WireGuard](https://www.christopherlouvet.com/posts/raspberry-pi-dual-wifi-wireguard-vpn-apple-tv/) - for use with Apple TV
 - [Butter Box](https://likebutter.app/box/) - an app store, encrypted chat & more, available over WiFi from an off-grid Raspberry Pi 
+- [Connecting a Pi, iPad, HoloLens, and Magic Leap ML1](https://www.mikebuss.com/posts/ipad-hololens-rpi-part-1) - communication between these devices in places with unreliable WiFi
 - [Create your own portable RFID pentest kit](https://pfery.com/create-your-own-portable-rfid-pentest-kit/) - Based on the Proxmark 3 with RaspAP for remote control over wifi
 - [Et si on Utilisait Minecraft au Collège ?](https://mathix.org/linux/archives/17928) - Using Minecraft + RaspAP in education
 - [FreedomEV](https://github.com/jnuyens/freedomev/) - Unlocking the full potential of Linux on your EV ( 📸 [RaspAP on a rooted Tesla](https://i.imgur.com/D8XlRkZ.jpg) )
