@@ -29,6 +29,7 @@ The open source community is doing amazing things with [RaspAP](https://github.c
 - [Subsea resident autonomous underwater vehicle (AUV)](https://discuss.bluerobotics.com/t/subsea-resident-auv/9771) - RaspAP used for wireless communication with the AUV's dock
 - [TravelPlex](https://medium.com/@laiello/creating-a-portable-plex-server-travelplex-2fea8c0e5d84) - a portable, offline 1TB Plex shared media server
 - [V1 Engineering](https://www.v1engineering.com/dip-a-toe-in-the-pool-v1pi/) - RPi-powered OctoPrint, CNC.js, CNC control from your phone
+- [WiFilter](https://underxctrl.frama.io/wifilter/) - A WiFi filter box boosted by machine learning to protect your children from adult content
 - [WiPi – A RaspberryPi Hotspot To Go](https://lucasjhall.github.io/2020/08/09/wipi-a-raspberrypi-hotspot-to-go.html) - AP & portable local network with a 
 Sixfab cellular HAT, built for travel
 
