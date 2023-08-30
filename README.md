@@ -68,12 +68,10 @@ Sixfab cellular HAT, built for travel
 ](https://docs.sixfab.com/page/using-sixfab-raspberry-pi-shield-hat-as-a-wi-fi-hotspot)
 ## Articles
 - [Low-cost Raspberry Pi Zero endoscope camera](https://www.raspberrypi.org/blog/low-cost-raspberry-pi-zero-endoscope-camera/)
-- [Raspberry Pi Weekly](https://www.raspberrypi.org/weekly/commander/) - Issue #157 - Commander
-- [Raspberry Pi Weekly](https://www.raspberrypi.org/weekly/were-on-the-home-stretch/) - Issue #351 - We’re on the home stretch!
+- [Raspberry Pi als WLAN-Router einsetzen – so geht’s](https://www.pcwelt.de/article/1789512/raspberry-pi-als-wlan-router.html)
 
 ## Other resources
 - [Raspberry Pi Wireless Access Point](https://www.youtube.com/watch?v=RvOyafQeOoY) - YouTube instructional video
-- [Top 16 useful tools for Raspberry Pi lovers](https://www.techiebouncer.com/2020/06/top-16-useful-tools-for-raspberry-pi.html)
 
 ## Contributing
 
