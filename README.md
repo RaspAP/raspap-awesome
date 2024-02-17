@@ -22,6 +22,7 @@ The open source community is doing amazing things with [RaspAP](https://github.c
 - [Interactive media installation at the Helinä Rautavaara Museum, Finland](https://portfolio.siloen.dk/hh-video-installation)
 - [iTex Gloves](https://www.mdpi.com/1424-8220/23/6/2877/htm) - an in-home evaluation of an e-textile glove system for tele-assessment of Parkinson’s Disease
 - [Low-cost wireless endoscope camera](https://afju.springeropen.com/articles/10.1186/s12301-021-00127-z) - a preliminary report
+- [OpenFJ is multi-functional appliance made for adventure travel](https://bit.ly/42I6M2h) -  OpenFJ is intended for use in a Toyota FJ Cruiser, OpenSJ is the version for the ocean sailing vessel Sojourner
 - [Pool pH Level and Temperature Wifi Monitor](https://deanfourie.me/pool-monitor/3/) ( 📸 [Project photo](https://imgur.com/a/eGVyTUf) )
 - [Raspberry Pi Construction Cam](https://darkspirit510.de/2021/10/raspberry-pi-construction-cam/)
 - [Secure Scuttlebutt Weather Station](https://rickcarlino.com/2019/04/06/a-weather-station-with-raspberry-pi-and-secure-scuttlebutt-html.html) - Replicating, peer-to-peer database of weather log data
