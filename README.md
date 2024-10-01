@@ -14,7 +14,8 @@ The open source community is doing amazing things with [RaspAP](https://github.c
 - [Build a Raspberry Pi dual-WiFi VPN router with WireGuard](https://www.christopherlouvet.com/posts/raspberry-pi-dual-wifi-wireguard-vpn-apple-tv/) - for use with Apple TV
 - [Butter Box](https://likebutter.app/box/) - an app store, encrypted chat & more, available over WiFi from an off-grid Raspberry Pi 
 - [Connecting a Pi, iPad, HoloLens, and Magic Leap ML1](https://www.mikebuss.com/posts/ipad-hololens-rpi-part-1) - communication between these devices in places with unreliable WiFi
-- [Create your own portable RFID pentest kit](https://pfery.com/create-your-own-portable-rfid-pentest-kit/) - Based on the Proxmark 3 with RaspAP for remote control over wifi
+- [Create your own portable RFID pentest kit](https://pfery.com/create-your-own-portable-rfid-pentest-kit/) - Based on the Proxmark 3 with RaspAP for remote control over WiFi
+- [DIY WALL·E Robot](https://h3d.com.ar/ideas/diy-wall%C2%B7e-robot/) - 3-D printed WALL·E replica with RaspAP used for wireless control (en español)
 - [Et si on Utilisait Minecraft au Collège ?](https://mathix.org/linux/archives/17928) - Using Minecraft + RaspAP in education
 - [FreedomEV](https://github.com/jnuyens/freedomev/) - Unlocking the full potential of Linux on your EV ( 📸 [RaspAP on a rooted Tesla](https://i.imgur.com/D8XlRkZ.jpg) )
 - [Hacking my Air Purifier](https://joshspicer.com/hack-air-purifier) - Monitoring network traffic using RaspAP with a "smart" air purifier
@@ -30,6 +31,7 @@ The open source community is doing amazing things with [RaspAP](https://github.c
 - [Subsea resident autonomous underwater vehicle (AUV)](https://discuss.bluerobotics.com/t/subsea-resident-auv/9771) - RaspAP used for wireless communication with the AUV's dock
 - [TravelPlex](https://medium.com/@laiello/creating-a-portable-plex-server-travelplex-2fea8c0e5d84) - a portable, offline 1TB Plex shared media server
 - [V1 Engineering](https://www.v1engineering.com/dip-a-toe-in-the-pool-v1pi/) - RPi-powered OctoPrint, CNC.js, CNC control from your phone
+- [WarDriver Pi – Build Guide](https://enzym3.io/wardriver-pi-build-guide/) - WarDriving / WiFi assessment Pi with RaspAP & Kismet
 - [WiFilter](https://underxctrl.frama.io/wifilter/) - A WiFi filter box boosted by machine learning to protect your children from adult content
 - [WiPi – A RaspberryPi Hotspot To Go](https://lucasjhall.github.io/2020/08/09/wipi-a-raspberrypi-hotspot-to-go.html) - AP & portable local network with a 
 Sixfab cellular HAT, built for travel
