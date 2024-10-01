@@ -20,7 +20,6 @@ The open source community is doing amazing things with [RaspAP](https://github.c
 - [FreedomEV](https://github.com/jnuyens/freedomev/) - Unlocking the full potential of Linux on your EV ( 📸 [RaspAP on a rooted Tesla](https://i.imgur.com/D8XlRkZ.jpg) )
 - [Hacking my Air Purifier](https://joshspicer.com/hack-air-purifier) - Monitoring network traffic using RaspAP with a "smart" air purifier
 - [Ham Radio Winter Tent Camping | Winter Field Day](https://youtu.be/jCfdIonDL8I?t=534) - Preparedness & off-grid communications 📽
-- [Interactive media installation at the Helinä Rautavaara Museum, Finland](https://portfolio.siloen.dk/hh-video-installation)
 - [iTex Gloves](https://www.mdpi.com/1424-8220/23/6/2877/htm) - an in-home evaluation of an e-textile glove system for tele-assessment of Parkinson’s Disease
 - [Low-cost wireless endoscope camera](https://afju.springeropen.com/articles/10.1186/s12301-021-00127-z) - a preliminary report
 - [OpenFJ is multi-functional appliance made for adventure travel](https://bit.ly/42I6M2h) -  OpenFJ is intended for use in a Toyota FJ Cruiser, OpenSJ is the version for the ocean sailing vessel Sojourner
@@ -50,7 +49,6 @@ Sixfab cellular HAT, built for travel
 - [Bitblokes.de: VPN router with Raspberry Pi, RaspAP and NordVPN / OpenVPN (simple)](https://www.bitblokes.de/vpn-router-mit-raspberry-pi-raspap-und-nordvpn-openvpn-einfach/) 
 - [Bitreporter.de: Raspberry Pi als WLAN-Hotspot nutzen](https://bitreporter.de/raspberrypi/raspberry-pi-als-wlan-hotspot-nutzen) 
 - [Building private WiFi hotspot with RaspberryPi, RaspAP, and VPN](https://ondrejsevcik.com/blog/private-wifi-with-raspberry-pi/)
-- [Configurer un serveur MQTT avec Raspberry Pi](https://emirchouchane.com/mqtt-raspberry-pi/) 
 - [Create a Wi-Fi hotspot in less than 10 minutes](https://howtoraspberrypi.com/create-a-wi-fi-hotspot-in-less-than-10-minutes-with-pi-raspberry/)
 - [Create an AP to gain remote control of the Raspberry](https://michaelmuenzer.medium.com/create-an-ap-to-gain-remote-control-of-the-raspberry-7ff7a81ebbe0) - Realtek chipset wifi dongle with a RPi Zero W
 - [Framboise314: Créez votre hotspot Wifi avec un Raspberry Pi de façon express](https://www.framboise314.fr/raspap-creez-votre-hotspot-wifi-avec-un-raspberry-pi-de-facon-express/) 
@@ -59,7 +57,6 @@ Sixfab cellular HAT, built for travel
 - [Instructables: Raspberry Pi As Completely Wireless Router](https://www.instructables.com/id/Raspberry-Pi-As-Completely-Wireless-Router/)
 - [Lesfrerespoulain: Boitier WIFI VPN](https://lesfrerespoulain.fr/boitier-wifi-vpn/) 
 - [Monter sa borne wifi en 5mn avec un raspberry](https://tutox.fr/2019/11/19/monter-sa-borne-wifi-en-5mn-avec-un-raspberry/) 
-- [RaspAP on Orange Pi PC + Armbian](https://ficus.myvnc.com/en/Blog/RaspAP-on-Orange-Pi-PCArmbian-Debian-Buster~b1197)
 - [Raspberry Pi as 4G LTE Router](https://newjerseystyle.github.io/en/2020/Raspberry-Pi-as-4G-LTE-Router/)
 - [Raspberry Pi as a Wifi Hotspot](https://raspberry-valley.azurewebsites.net/RaspAP-Wifi-Hotspot/)
 - [Réaliser un routeur WiFi/4G sois-même](https://eco-sensors.ch/router-wifi-4g-hotspot/)
