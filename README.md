@@ -25,6 +25,7 @@ The open source community is doing amazing things with [RaspAP](https://github.c
 - [OpenFJ is multi-functional appliance made for adventure travel](https://bit.ly/42I6M2h) -  OpenFJ is intended for use in a Toyota FJ Cruiser, OpenSJ is the version for the ocean sailing vessel Sojourner
 - [Pool pH Level and Temperature Wifi Monitor](https://deanfourie.me/pool-monitor/3/) ( 📸 [Project photo](https://imgur.com/a/eGVyTUf) )
 - [Raspberry Pi Construction Cam](https://darkspirit510.de/2021/10/raspberry-pi-construction-cam/)
+- [Routour🗼](https://archfx.me/routour) - Building the ultimate travel router
 - [Secure Scuttlebutt Weather Station](https://rickcarlino.com/2019/04/06/a-weather-station-with-raspberry-pi-and-secure-scuttlebutt-html.html) - Replicating, peer-to-peer database of weather log data
 - [Smart Window Opener](https://www.hackster.io/Infineon_Team/smart-window-opener-dd5fba) - Upgrade your window from a lame one to an awesome smart one
 - [Subsea resident autonomous underwater vehicle (AUV)](https://discuss.bluerobotics.com/t/subsea-resident-auv/9771) - RaspAP used for wireless communication with the AUV's dock
