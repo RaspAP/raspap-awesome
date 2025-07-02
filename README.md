@@ -9,6 +9,7 @@ Contributions are *very welcome*. See [contributing](#contributing).
 The open source community is doing amazing things with [RaspAP](https://github.com/RaspAP/raspap-webgui). Just when we think we've seen it all, something new and unexpected comes along. With the low cost of the Raspberry Pi and the ease of setup with our famous [Quick Installer](https://docs.raspap.com/quick/), RaspAP-powered projects are popping up all over the globe.  Do you run a public or personal access point powered by RaspAP? Have an innovative project you've developed with it? Showcase your resource here!
 
 ## Projects
+- [A customizable digital holographic microscope](https://www.hardware-x.com/article/S2468-0672(24)00063-4/fulltext) - a compact, low-cost holographic microscope with RaspAP used for remote access
 - [Arduino mobile development with Blynk](https://techexplorations.com/so/mobile-development-with-blynk/) - course using Blynk platform for building projects with Arduino Nano 33 IoT and ESP32
 - [Build a Raspberry Pi APRS Tracker using Direwolf](https://brandonb.ca/raspberry-pi-aprs-tracker) - an amateur radio-based system for real time digital communications with RaspAP
 - [Build a Raspberry Pi dual-WiFi VPN router with WireGuard](https://www.christopherlouvet.com/posts/raspberry-pi-dual-wifi-wireguard-vpn-apple-tv/) - for use with Apple TV
