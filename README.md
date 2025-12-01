@@ -65,6 +65,7 @@ Sixfab cellular HAT, built for travel
 ## Articles
 - [4 reasons I installed RaspAP on my Raspberry Pi](https://www.xda-developers.com/4-reasons-installed-raspap-raspberry-pi/?taid=684f6cb9d3dbfc0001f3bb08)
 - [Low-cost Raspberry Pi Zero endoscope camera](https://www.raspberrypi.org/blog/low-cost-raspberry-pi-zero-endoscope-camera/)
+- [Stop trusting hotel Wi-Fi: Build this Raspberry Pi travel router instead](https://www.howtogeek.com/stop-trust-hotel-wi-fi-build-raspberry-pi-travel-router/)
 - [Raspberry Pi als WLAN-Router einsetzen – so geht’s](https://www.pcwelt.de/article/1789512/raspberry-pi-als-wlan-router.html)
 
 ## Other resources
