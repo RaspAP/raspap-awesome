@@ -11,6 +11,7 @@ The open source community is doing amazing things with [RaspAP](https://github.c
 ## Projects
 - [A customizable digital holographic microscope](https://www.hardware-x.com/article/S2468-0672(24)00063-4/fulltext) - a compact, low-cost holographic microscope with RaspAP used for remote access
 - [Arduino mobile development with Blynk](https://techexplorations.com/so/mobile-development-with-blynk/) - course using Blynk platform for building projects with Arduino Nano 33 IoT and ESP32
+- [Autonomous Weather Station](https://www.sti5d.com/src/projects/lpo) - a weather station capable of measuring environmental data in real-time and uploading it to a server using an ESP8266 and a Raspberry Pi
 - [Build a portable Jellyfin media server/router for offline movie streaming](https://18gi0n.org/webpages/travelrouter.html) - with traffic routed through a VPN via RaspAP
 - [Build a Raspberry Pi APRS Tracker using Direwolf](https://brandonb.ca/raspberry-pi-aprs-tracker) - an amateur radio-based system for real time digital communications with RaspAP
 - [Build a Raspberry Pi dual-WiFi VPN router with WireGuard](https://www.christopherlouvet.com/posts/raspberry-pi-dual-wifi-wireguard-vpn-apple-tv/) - for use with Apple TV
